@@ -1,0 +1,5 @@
+br\com\petterson\ecommerce\ConsumerFunction.class
+br\com\petterson\ecommerce\GsonSerializer.class
+br\com\petterson\ecommerce\KafkaService.class
+br\com\petterson\ecommerce\GsonDeserealizer.class
+br\com\petterson\ecommerce\KafkaDispatcher.class
